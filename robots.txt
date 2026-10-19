@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-domain-4.com/sitemap.xml
+Sitemap: https://cursed-text-styles.vercel.app/sitemap.xml
